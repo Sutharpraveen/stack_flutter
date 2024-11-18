@@ -8,7 +8,7 @@ class FlutterStackExamples extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Stack Examples',
       home: Scaffold(
-        appBar: AppBar(title: Text('Flutter Stack Examples')),
+        appBar: AppBar(title: Text('Flutter Stack Examples praveen')),
         body: ExamplesList(),
       ),
     );
@@ -53,11 +53,9 @@ class SimpleStack extends StatelessWidget {
       body: Center(
         child: Stack(
           children: [
-            Container(
-              width: 200,
-              height: 200,
-              color: Colors.blue,
-            ),
+
+
+
             Positioned(
               top: 50,
               left: 50,
