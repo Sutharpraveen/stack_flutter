@@ -8,7 +8,7 @@ class FlutterStackExamples extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Stack Examples',
       home: Scaffold(
-        appBar: AppBar(title: Text('Flutter Stack Examples praveen')),
+        appBar: AppBar(title: Text('Flutter Stack')),
         body: ExamplesList(),
       ),
     );
