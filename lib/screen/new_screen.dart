@@ -17,15 +17,9 @@ class _NewScreenState extends State<NewScreen> {
         body: Column(
           children: [
             Text("Suthar"),
-            Text("Raj"),
             Text("Devilal"),
             Text("srk sir!")
-            Text("srk sir!")
-            Text("srk sir!")
-            Text("srk sir!")
-            Text("srk sir!")
-            Text("srk sir!")
-            Text("srk sir!")
+
           ],
         ),
         
