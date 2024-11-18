@@ -11,6 +11,9 @@ class NewScreen extends StatefulWidget {
 class _NewScreenState extends State<NewScreen> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return 
+      Scaffold(
+        appBar: AppBar(title: Text("data"),),
+      );
   }
 }
