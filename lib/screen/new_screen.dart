@@ -14,6 +14,15 @@ class _NewScreenState extends State<NewScreen> {
     return 
       Scaffold(
         appBar: AppBar(title: Text("data"),),
+        body: Column(
+          children: [
+            Text("Suthar"),
+            Text("Raj"),
+            Text("Devilal"),
+            Text("srk sir!")
+          ],
+        ),
+        
       );
   }
 }
