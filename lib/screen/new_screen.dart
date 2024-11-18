@@ -14,6 +14,8 @@ class _NewScreenState extends State<NewScreen> {
     return Scaffold(
       body: Column(
         children: [
+          
+          Image(image: "image")
 
         ],
       ),
