@@ -20,6 +20,12 @@ class _NewScreenState extends State<NewScreen> {
             Text("Raj"),
             Text("Devilal"),
             Text("srk sir!")
+            Text("srk sir!")
+            Text("srk sir!")
+            Text("srk sir!")
+            Text("srk sir!")
+            Text("srk sir!")
+            Text("srk sir!")
           ],
         ),
         
